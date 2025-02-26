@@ -6,7 +6,9 @@
 
 ## 🎨 Layout
 
-![](/imagens/imagens/Screenshot.png)
+
+![](/images/print-pag-angels-hostels-pc.png)
+![](/images/print-pag-angels-hostels-mobile.png)
 
 <a id="tecnologias"></a>
 ## 💻 Tecnologias
@@ -17,4 +19,4 @@
 <a id=colaborador/curso></a>
 ## 🤝 Colaborador/Curso 
 
-[![logo serliv](/imagens/imagens/logo-serliv.jpg "Logo serliv")](https://bit.ly/css-html-js)
+[![logo serliv](/images/logo-serliv.jpg "Logo serliv")](https://bit.ly/css-html-js)
