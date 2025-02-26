@@ -7,7 +7,7 @@
 ## 🎨 Layout
 
 <img src="/images/print-pag-angels-hostels-mobile.png" 
-width="171"
+width="85"
 height="362"> 
 
 <img src="/images/print-pag-angels-hostels-pc.png"
