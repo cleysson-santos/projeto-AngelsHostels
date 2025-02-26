@@ -6,9 +6,14 @@
 
 ## 🎨 Layout
 
+<img src="/images/print-pag-angels-hostels-mobile.png" 
+width="171"
+height="362"> 
 
-![](/images/print-pag-angels-hostels-pc.png)
-![](/images/print-pag-angels-hostels-mobile.png)
+<img src="/images/print-pag-angels-hostels-pc.png"
+width="171"
+height="362">
+<!-- ![](/images/print-pag-angels-hostels-pc.png) -->
 
 <a id="tecnologias"></a>
 ## 💻 Tecnologias
